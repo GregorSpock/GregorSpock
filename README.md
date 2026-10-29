@@ -4,19 +4,13 @@ I'm a behavioural economist studying for an MSc in Behavioural Economics at the 
 
 ## Research
 
-- **IMPACT project, University of Nottingham.** Research Assistant on a project about climate stressors, equity and aspirations. I work on the aspirations strand and designed survey questions fielded in Accra and Lagos. I'm presenting this work at the Society for Risk Analysis Europe conference at King's College London in November 2026.
-- **Online decision-making, UCL Bartlett School.** Research Assistant on a preregistered behavioural economics study of how people make decisions online.
-- **Undergraduate dissertation.** *The Impact of Droughts on the Presence and Temporal Nature of Aspirations in Nigeria*, using an instrumental variables approach with the Standardised Precipitation Index as the drought measure. Awarded a First.
+- **IMPACT project, University of Nottingham.** Research Assistant on a project about climate stressors, equity and aspirations. I work on the aspirations strand and designed survey questions fielded in Accra and Lagos.
+- **Online decision-making, UCL Bartlett School.** Research Assistant on a preregistered behavioural economics study of how people make decisions online
 
 ## Projects
 
 - **[Coefflow](https://github.com/GregorSpock/Coefflow).** Drag-and-drop econometrics. Build an analysis by wiring modules together on a canvas: clean data, fit OLS, logit, ARIMAX and panel models, run diagnostic tests, forecast and export journal-style tables, without writing code. Add-on packs cover causal inference (IV, RDD, DiD), ordered models and more. Python and pygame, AGPLv3.
 - **Terraria mod.** A large-scale content mod published on Steam through tModLoader, written in C#/.NET. Currently Private as I polish & make final adjustments!
-
-## Work
-
-- **Data and Technical Consultant (freelance)** at the Ann Craft Trust, a UK adult-safeguarding charity, working on their data, analytics and reporting.
-- **Lead Researcher and Data Analyst** on consultancy projects for a UK start-up and for 80Noir.
 
 ## Tools
 
