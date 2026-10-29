@@ -18,7 +18,7 @@ Python · SQL · Excel · C# · HTML/CSS/JavaScript · pandas · statsmodels · 
 
 ## Contact
 
-Find me on [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) or open an issue on any of my repositories.
+Find me on [LinkedIn](https://www.linkedin.com/in/gregorburroughs) or open an issue on any of my repositories.
 
 <!---
 GregorSpock/GregorSpock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
